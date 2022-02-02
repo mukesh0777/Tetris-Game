@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Muksy\\Desktop\\Projet Tetris B2\\Tetris-Game\\Tetris\\Tetris.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Muksy\\Desktop\\Projet Tetris B2\\Tetris-Game\\Tetris\\Tetris.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Muksy\\Desktop\\Projet Tetris B2\\Tetris-Game\\Tetris\\Tetris.csproj",
+        "projectName": "Tetris",
+        "projectPath": "C:\\Users\\Muksy\\Desktop\\Projet Tetris B2\\Tetris-Game\\Tetris\\Tetris.csproj",
+        "packagesPath": "C:\\Users\\Muksy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Muksy\\Desktop\\Projet Tetris B2\\Tetris-Game\\Tetris\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Muksy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

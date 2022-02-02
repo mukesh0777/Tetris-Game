@@ -1,0 +1,44 @@
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Muksy\Desktop\Projet\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.exe
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.deps.json
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.json
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.runtimeconfig.dev.json
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.dll
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\bin\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.cache
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris_MarkupCompile.lref
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.g.resources
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.AssemblyInfo.cs
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.dll
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\ref\Tetris.dll
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.pdb
+C:\Users\Muksy\Desktop\Projet Tetris B2\Tetris-Game\Tetris\obj\Debug\net5.0-windows\Tetris.genruntimeconfig.cache
