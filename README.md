@@ -14,25 +14,48 @@ Nous avous pu réaliser lors de ce projet :
 
 - Le jeu se lance dès l'execution de notre code
 
-- Une option de mantenir un block avec la touche "C"
+- Une option de mantenir un block ( bonus )
 
-- Augmentation de niveau au au fur et à mesure
+- Affichage du block à venir 
 
-- Une option de tourner le block avec le fleche du haut
+- Les blocks apparaissent en mode aléatoire
 
-- Une option de faire descendre le block plus vite si nécessaire avec la touche fleche du bas
+- Les blocks desendent d'une case chaque x temps si aucune demande à été fais
 
-- Une option de se diriger gauche à droite avec les fleches gauche et droite
+- Augmentation de niveau/vitesse au au fur et à mesure
 
-- Option "Score"
+- Une option de tourner le block 
 
-- Option de relancez le jeu, dès que le "game over" 
+- Une option de faire descendre le block plus vite à l'aide d'une touche
+
+- Une option de diriger les blocks de gauche à droite
+
+- Quand une ligne est completé, ceci est supprimé de notre grille
+
+- Option "Score" est disponible
+
+- Une fois que la grille est rempli sans solutions -> le jeu est terminé !
+
+- Option de relancez le jeu, dès le "game over" 
+
 
 
 ### Comment jouer ?
 
 C'est très simple, il n'y a que 4 touches à connaître :
 
-- Touche flèche du bas : Pour desendre le block 
+- Touche flèche du bas : Pour desendre le block d'un cran, et maintenez pour desendre plus vite. 
 
 - Touche fleche de droite et gauche : Pour se deplacer gauche à droite
+
+- Touche C : Pour passer un block non desiré
+
+
+
+### Installation de jeu
+
+- il suffit de :  git clone https://github.com/mukesh0777/Tetris-Game.git
+
+- Puis executez ce code !
+
+- Enfin, amusez vous :)
